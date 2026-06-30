@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-kuss-im-regen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Ein Kuss im Regen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-kuss-im-regen/) |
+| **Get License** | [Music Rights & Licensing for Ein Kuss im Regen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-kuss-im-regen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ein Kuss im Regen, Baby, Wassertropfen auf der Haut
+> Wir beide viel zu schnell, ich hab' auf uns gebaut
+> Lass die andern alle reden, du bist mein Versteck
+> Spür' die Spannung in der Luft, passend zu dem Track
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
