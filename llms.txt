@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-kuss-im-regen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ein Kuss im Regen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-kuss-im-regen/) |
+| **Get License** | [Music Rights & Licensing for Ein Kuss im Regen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-kuss-im-regen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4670)
 
 ---
 
